@@ -1,6 +1,7 @@
 # Techno-Spear
 
-Developed a website for tech enthusiasts, filled with tech tips, tricks and tutorials, with some of my android application.
+Developed a website for tech enthusiasts, filled with tech blogs.
+Tech tips, tricks and tutorials, with some of my android application.
 
 ![Screenshot (188)](https://user-images.githubusercontent.com/74344228/137717877-0f8163d0-714b-4c39-8a44-84fd3f338971.png)
 
